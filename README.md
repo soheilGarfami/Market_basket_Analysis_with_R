@@ -35,7 +35,7 @@ you can find the Raw ***.rmd*** file in [here](Market_basket_analysis_files/Mark
 * ## [reports](reports/)
 in this folder we have the ***reports.html*** files that we will create in the [Data_exploring-Analysis](1_Data_exploring-Analysis.md).
 
-# why we use market basket analysis 
+# why we use market basket analysis ?
 
 <img src="Data_exploring-Analysis_files/figure-markdown_strict/onlinegrocerypic.webp"/> 
 
