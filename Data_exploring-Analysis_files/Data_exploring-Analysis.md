@@ -3,7 +3,7 @@
 Welcome to the Market Basket Analysis with R! In this markdown document,
 we will explore a dataset of grocery store transactions, conduct
 analysis, create visualizations, and derive insights. In a [follow-up
-markdown](2_Market_basket_analysis) , we will dive deeper by applying
+markdown](../2_Market_basket_analysis) , we will dive deeper by applying
 the Apriori algorithm to uncover valuable associations within the data. 
 
 ### Key Objectives
@@ -134,7 +134,7 @@ Let’s create a report for this dataset.
     )
 
 take a look at the [report for
-order-product](reports/orders_products_report.html)
+order-product](../reports/orders_products_report.html)
 
     #Since we no longer need the variable `n_product_by_orders`, let's remove it from memory to clean up.
 
@@ -215,7 +215,7 @@ it seems like we get a few more orders in the first tow days of the week
                                             add_plot_str = F,
                   ))
 
-check out the [report for the orders](reports/orders.html)
+check out the [report for the orders](../reports/orders.html)
 
 <hr>
 
@@ -252,7 +252,7 @@ Let’s examine the proportion of products that are `organic` versus
                   output_file = "reports/products_report.html" , 
                   y = NULL,  )
 
-check out the [report for the products](reports/products_report.html)
+check out the [report for the products](../reports/products_report.html)
 
 <hr>
 
@@ -440,5 +440,5 @@ Now that we have a good understanding of the data and have extracted
 some valuable insights, the next step is to conduct a market basket
 analysis to discover potential correlation rules.
 
-Check out the [Market Basket Analysis](2_Market_basket_analysis.md)
+Check out the [Market Basket Analysis](../2_Market_basket_analysis.md)
 kernel.
