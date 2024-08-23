@@ -2,7 +2,11 @@
 
 **Project description:** In this project we explore how a market basket analysis can be used to analyze a online grocery dataset from Instacart, customer behaviors and provide simple purchase recommendations using association rules and the a priori algorithm in R  
 
+<<<<<<< HEAD
 <kbd> <img src="Data_exploring-Analysis_files/figure-markdown_strict/intor_photo.webp"/> </kbd>
+=======
+*add image *
+>>>>>>> d1f41b83164e2efc7e15c4accdcfe655889e54f9
 
 The steps we will follow are:  
   * Describe the dataset used for market basket analysis 
@@ -15,6 +19,7 @@ We will describe the analysis and findings by clearly connecting the business qu
 
 
 ---
+<<<<<<< HEAD
 
 # Project Files Descriptio
 
@@ -48,3 +53,12 @@ Market Basket Analysis (MBA) is a data mining technique used to uncover relation
 2. **Promotion Strategies:** Create combo offers for products that are frequently purchased together.
 3. **Inventory Management:** Ensure frequently paired items are stocked together.
 4. **Customer Segmentation:** Identify customer groups based on buying habits to tailor marketing efforts.
+=======
+[follow-up
+markdown](https://github.com/soheilGarfami/Market_basket_Analysis_with_R/Data_exploring-Analysis_files/Data_exploring-Analysis.html)
+
+1. connect the link
+2. take out the report
+3. write the readme
+4. revision 
+>>>>>>> d1f41b83164e2efc7e15c4accdcfe655889e54f9
