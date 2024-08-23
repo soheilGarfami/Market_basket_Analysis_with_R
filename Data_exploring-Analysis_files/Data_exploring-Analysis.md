@@ -3,7 +3,7 @@
 Welcome to the Market Basket Analysis with R! In this markdown document,
 we will explore a dataset of grocery store transactions, conduct
 analysis, create visualizations, and derive insights. In a [follow-up
-markdown](../2_Market_basket_analysis) , we will dive deeper by applying
+markdown](../2_Market_basket_analysis.md) , we will dive deeper by applying
 the Apriori algorithm to uncover valuable associations within the data. 
 
 ### Key Objectives
