@@ -2,7 +2,7 @@
 
 **Project description:** In this project we explore how a market basket analysis can be used to analyze a online grocery dataset from Instacart, customer behaviors and provide simple purchase recommendations using association rules and the a priori algorithm   
 
-<kbd> <img src="https://christophercochet.github.io/Market-Basket-Analysis/images/Instacart.jpg"/> </kbd>
+*add image *
 
 The steps we will follow are:  \
   * Describe the dataset used for market basket analysis \
@@ -15,3 +15,8 @@ We will describe the analysis and findings by clearly connecting the business qu
 ---
 [follow-up
 markdown](https://github.com/soheilGarfami/Market_basket_Analysis_with_R/Data_exploring-Analysis_files/Data_exploring-Analysis.html)
+
+1. connect the link
+2. take out the report
+3. write the readme
+4. revision 
